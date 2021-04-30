@@ -69,6 +69,7 @@ body {
 
 #section-2 a {
   text-decoration: none;
+  
 }
 
 #section-2 img {
@@ -176,6 +177,21 @@ body {
     height: 300px !important;
     padding-bottom: 10px;
   }
+
+#section {
+  height: 200px;
+}
+#section .mb-first
+
+{
+height: 100px !important;
+margin-top: 20px !important;
+}
+
+#section-2 a {
+  font-size: 12px;
+  
+}
 
   #side-panel img {
     width: 100%;
