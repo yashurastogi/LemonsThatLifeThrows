@@ -118,7 +118,7 @@ body {
 }
 
 /* comment box edit */
-#HCB_comment_box .home-desc {
+/* #HCB_comment_box .home-desc {
   display: none;
 }
 
@@ -144,7 +144,7 @@ body {
 #comments_list blockquote {
   margin: 0 !important;
   padding-bottom: 8px !important;
-}
+} */
 
 /* Article */
 #article {
