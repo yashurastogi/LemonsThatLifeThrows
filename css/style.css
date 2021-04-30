@@ -192,7 +192,11 @@ margin-top: 20px !important;
   font-size: 12px;
   
 }
-
+#section-2 img {
+  width: 30px;
+  height: 30px;
+  padding-bottom: 0px;
+}
   #side-panel img {
     width: 100%;
     height: 300px ;
