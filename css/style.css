@@ -117,35 +117,6 @@ body {
   text-align: left;
 }
 
-/* comment box edit */
-/* #HCB_comment_box .home-desc {
-  display: none;
-}
-
-#HCB_comment_form_box {
-  padding: 0 !important;
-}
-
-#hcb_form {
-  margin: 0 !important;
-}
-#HCB_comment_box .hcb-icon {
-  display: none;
-  padding-bottom: 0;
-}
-#hcb_file_label a {
-  display: none !important;
-}
-#comments_list .comment {
-  margin: 0 !important;
-  padding-bottom: 8px !important;
-  border-bottom: rgba(0, 0, 0, 0.534) 1px solid;
-}
-#comments_list blockquote {
-  margin: 0 !important;
-  padding-bottom: 8px !important;
-} */
-
 /* Article */
 #article {
   margin-top: 67px;
