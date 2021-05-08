@@ -232,3 +232,9 @@ margin-top: 20px !important;
    font-size: 14px;
  }
 }
+
+#article .arrange
+{
+ width: 100% !important;
+ height: auto !important;
+}
