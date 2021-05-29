@@ -2,29 +2,29 @@
 export let article = {
     "article1": {
         date: '25 April, 2021',
-        link: 'Uncertanity.html',
+        link: '../articles/Uncertanity.html',
         heading: 'Uncertainty: Undesired gift for all?',
         category: 'Questions From Followers'
     },
     "article2": {
         date: '30 April,2021',
-        link: 'Trickyboss.html',
+        link: '../articles/Trickyboss.html',
         heading: 'Ways to handle tricky boss',
         category: 'Questions From Followers'
     },
     "article3": {
         date: '8 May,2021',
-        link: 'tortorise.html',
+        link: '../articles/tortorise.html',
         heading: ' You know why the tortoise won that race?',
         category: 'Questions From Followers',
-        img: 'img/tortorise.jpg',
+        img: '../img/tortorise.jpg',
     },
     "article4": {
         date: '19th May, 2021',
-        link: 'productive.html',
+        link: '../articles/productive.html',
         heading: ' 12 Ways to be more productive',
         category: 'Simpler Life',
-        img: 'img/productive.jpg',
+        img: '../img/productive.jpg',
         content: ` My colleague, to me one evening : “Hey, I have been trying to complete this file since morning and
                     still I am only half
                     done.”
@@ -41,12 +41,12 @@ export let article = {
                     one file the whole day? The answer is distractions.`
 
     },
-    "article4": {
+    "article5": {
         date: '29th May, 2021',
-        link: 'productive.html',
-        heading: ' 12 Ways to be more productive',
+        link: '../articles/LoveAndDetachment.html',
+        heading: ' Power Of Love And Detachment',
         category: 'Simpler Life',
-        img: 'img/productive.jpg',
+        img: '../img/love.jpg',
         content: ` My colleague, to me one evening : “Hey, I have been trying to complete this file since morning and
                     still I am only half
                     done.”
