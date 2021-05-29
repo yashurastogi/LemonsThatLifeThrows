@@ -44,7 +44,7 @@ export let article = {
     "article5": {
         date: '29th May, 2021',
         link: '../articles/LoveAndDetachment.html',
-        heading: ' Power Of Love And Detachment',
+        heading: ' Detached Love is the Best Love',
         category: 'Simpler Life',
         img: '../img/love.jpg',
         content: ` Are you confusing Love with attachment ? I think most of us do. When you start enjoying the
