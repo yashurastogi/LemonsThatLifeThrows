@@ -47,20 +47,11 @@ export let article = {
         heading: ' Power Of Love And Detachment',
         category: 'Simpler Life',
         img: '../img/love.jpg',
-        content: ` My colleague, to me one evening : “Hey, I have been trying to complete this file since morning and
-                    still I am only half
-                    done.”
-                    <br>
-                    Me: “Is it too big to finish in a day?”
-                    <br>
-                    Colleague: “That’s the thing, it is not too big. I could have easily finished it today”
-                    
-                    <br>
-                    --------------------------------------------------------------------------------------
-                    <br>
-                    Have you ever been in a situation as my colleague above? At least I have been. So why do you think
-                    people can’t finish
-                    one file the whole day? The answer is distractions.`
+        content: ` Are you confusing Love with attachment ? I think most of us do. When you start enjoying the
+                        company of someone, start
+                        liking their ways and your rhyming goes well with them it can be misunderstood as love. It may
+                        or may not be love, it
+                        can be attachment and people can confuse that with love.`
 
     },
 
