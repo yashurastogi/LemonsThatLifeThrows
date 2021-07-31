@@ -54,6 +54,19 @@ export let article = {
                         can be attachment and people can confuse that with love.`
 
     },
+    "article6": {
+        date: '31st July, 2021',
+        link: '../articles/MoveInSilence.html',
+        heading: ' Why your goals should be a Secret?',
+        category: 'Self Development',
+        img: '../img/Move In Silence.jpg',
+        content: ` Work hard in silence and let your success make noise.
+Frank Ocean
+I bet, we all have come across this quotation. This is more than a thought or a quote. It’s a method, it’s a process backed by psychological experiments.
+We will dive in to see how our perspective towards goals change if we tell it to others and how we can resist ourselves from announcing set goals to the world.
+`
+
+    },
 
 
 
