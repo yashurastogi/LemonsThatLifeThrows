@@ -55,6 +55,17 @@ export let article = {
 
     },
     "article6": {
+        date: '12th June, 2021',
+        link: '../articles/karma.html',
+        heading: ' Karma',
+        category: 'Simpler Life',
+        img: '../img/karma.jpg',
+        content: ` DEFINITION OF KARMA <br>
+        Karma is when we think, do or speak. All voluntary actions are Karma. “Naa bura bolo, naa bura socho, naa bura karo” which translates to “do not speak bad, do not think bad, do not do bad” explains how Karma should be to a great extent. Karma is not just our actions but it starts at the thought level. What we think or intend to do generates Karma. 
+        `
+
+    },
+    "article7": {
         date: '31st July, 2021',
         link: '../articles/MoveInSilence.html',
         heading: ' Why your goals should be a Secret?',
