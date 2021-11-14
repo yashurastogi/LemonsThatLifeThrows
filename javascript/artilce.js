@@ -81,7 +81,7 @@ We will dive in to see how our perspective towards goals change if we tell it to
     "article8": {
         date: '14 Nov, 2021',
         link: '../articles/Walking.html',
-        heading: ' Walking in 2 months',
+        heading: ' Change your thoughts to change life',
         category: 'Simpler Life',
         img: '../img/walking.jpg',
         content: ` It took me more than 2 months before I could walk again after a very simple slip from the
