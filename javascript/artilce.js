@@ -78,24 +78,24 @@ We will dive in to see how our perspective towards goals change if we tell it to
 `
 
     },
-    //     "article8": {
-    //         date: '14 Nov, 2021',
-    //         link: '../articles/Walking.html',
-    //         heading: ' Change your thoughts to change life',
-    //         category: 'Simpler Life',
-    //         img: '../img/walking.jpg',
-    //         content: ` It took me more than 2 months before I could walk again after a very simple slip from the
-    //                         stairs. The moment I slipped
-    //                         the only thought that came across was, “It is just an ankle sprain and nothing major”, I was
-    //                         trying to suppress my gut
-    //                         feel.  But an x-ray shattered my hopes. My foot had a fracture. Before this I never had faced any
-    //                         fracture or major
-    //                         illness which required hospitalisation. But I always used to fear accidents and fractures. My
-    //                         fear was shaking hands
-    //                         with me.
-    // `
+    "article8": {
+        date: '14 Nov, 2021',
+        link: '../articles/Walking.html',
+        heading: ' Change your thoughts to change life',
+        category: 'Simpler Life',
+        img: '../img/walking.jpg',
+        content: ` It took me more than 2 months before I could walk again after a very simple slip from the
+                            stairs. The moment I slipped
+                            the only thought that came across was, “It is just an ankle sprain and nothing major”, I was
+                            trying to suppress my gut
+                            feel.  But an x-ray shattered my hopes. My foot had a fracture. Before this I never had faced any
+                            fracture or major
+                            illness which required hospitalisation. But I always used to fear accidents and fractures. My
+                            fear was shaking hands
+                            with me.
+    `
 
-    //     }
+    }
 
 
 
