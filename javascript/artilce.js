@@ -109,7 +109,7 @@ We will dive in to see how our perspective towards goals change if we tell it to
     "article10": {
         date: '14 Dec, 2022',
         link: '../articles/TheSilentScreams.html',
-        heading: 'The Silent Screems',
+        heading: 'The Silent Screams',
         category: 'Simpler Life',
         img: '../img/silentscreems.jpg',
         content: ` To make better sense I suggest you to read the story (‘White and Black’) published before this one….
