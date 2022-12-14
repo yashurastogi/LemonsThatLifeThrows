@@ -97,7 +97,7 @@ We will dive in to see how our perspective towards goals change if we tell it to
 
     },
     "article9": {
-        date: '8 Dec, 2021',
+        date: '8 Dec, 2022',
         link: '../articles/WhiteBlack.html',
         heading: 'White & Black',
         category: 'Simpler Life',
@@ -105,7 +105,19 @@ We will dive in to see how our perspective towards goals change if we tell it to
         content: ` She was trying to overcome a difficult situation when someone dropped ‘Hi’ in her Inbox. She ignores it until she was down to a couple of drinks. She responds to the chat not knowing what this can lead to. This happens not just when we meet strangers online but in other areas of our lives as well - workplaces, public transport, malls, etc. You feel as if you can talk to the person forever because you both go well together. 
     `
 
+    },
+    "article10": {
+        date: '14 Dec, 2022',
+        link: '../articles/TheSilentScreems.html',
+        heading: 'The Silent Screems',
+        category: 'Simpler Life',
+        img: '../img/silenyscreems.jpg',
+        content: ` She was trying to overcome a difficult situation when someone dropped ‘Hi’ in her Inbox. She ignores it until she was down to a couple of drinks. She responds to the chat not knowing what this can lead to. This happens not just when we meet strangers online but in other areas of our lives as well - workplaces, public transport, malls, etc. You feel as if you can talk to the person forever because you both go well together. 
+    `
+
     }
+
+
 
 
 
