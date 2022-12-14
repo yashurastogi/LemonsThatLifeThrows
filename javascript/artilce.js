@@ -111,8 +111,10 @@ We will dive in to see how our perspective towards goals change if we tell it to
         link: '../articles/TheSilentScreems.html',
         heading: 'The Silent Screems',
         category: 'Simpler Life',
-        img: '../img/silenyscreems.jpg',
-        content: ` She was trying to overcome a difficult situation when someone dropped ‘Hi’ in her Inbox. She ignores it until she was down to a couple of drinks. She responds to the chat not knowing what this can lead to. This happens not just when we meet strangers online but in other areas of our lives as well - workplaces, public transport, malls, etc. You feel as if you can talk to the person forever because you both go well together. 
+        img: '../img/silentscreems.jpg',
+        content: ` To make better sense I suggest you to read the story (‘White and Black’) published before this one….
+He is busy in his daily tasks and as per the routine takes care of office calls, and does his job with his whole heart. He is in a relationship and they are just like any other couple. They have their fights, their romances, and their usual stuff. He loves her from her whole heart, completely unaware that she might be sharing her love with someone else too
+ 
     `
 
     }
