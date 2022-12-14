@@ -108,7 +108,7 @@ We will dive in to see how our perspective towards goals change if we tell it to
     },
     "article10": {
         date: '14 Dec, 2022',
-        link: '../articles/TheSilentScreems.html',
+        link: '../articles/TheSilentScreams.html',
         heading: 'The Silent Screams',
         category: 'Simpler Life',
         img: '../img/silentscreems.jpg',
