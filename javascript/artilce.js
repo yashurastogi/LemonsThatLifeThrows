@@ -117,6 +117,20 @@ He is busy in his daily tasks and as per the routine takes care of office calls,
  
     `
 
+    },
+    "article11": {
+        date: '21 Jan, 2023',
+        link: '../articles/MyPMPJourney.html',
+        heading: 'How I passed PMP in first attempt',
+        category: 'Simpler Life',
+        img: '../img/MyPMPJourney.jpg',
+        content: ` I became PMP certified in October 2022 and that became by far the best achievement of that year.
+                        While this certification is one of the most prestigious for folks into the Project Management
+                        world the assessment is
+                        one of the brain-teasing ones.
+ 
+    `
+
     }
 
 
