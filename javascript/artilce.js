@@ -131,7 +131,22 @@ He is busy in his daily tasks and as per the routine takes care of office calls,
  
     `
 
+    },
+    "article12": {
+        date: '29 Sep, 2023',
+        link: '../articles/OneOfMyFamily',
+        heading: 'One Of My Family',
+        category: 'Simpler Life',
+        img: '../img/OneOfMyFamily.png',
+        content: ` Why do I say one of my family? Family is a group of people who can stay together overcoming
+all odds, take decisions together, and consider others in the group. According to me one can
+have more than one family, a family of friends, a family at the office, a family at home, a family
+at another home (anything else you can think of).
+ 
+    `
+
     }
+
 
 
 
