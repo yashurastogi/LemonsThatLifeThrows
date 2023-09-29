@@ -134,7 +134,7 @@ He is busy in his daily tasks and as per the routine takes care of office calls,
     },
     "article12": {
         date: '29 Sep, 2023',
-        link: '../articles/OneOfMyFamily',
+        link: '../articles/OneOfMyFamily.html',
         heading: 'One Of My Family',
         category: 'Simpler Life',
         img: '../img/OneOfMyFamily.png',
