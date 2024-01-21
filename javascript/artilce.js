@@ -145,8 +145,21 @@ at another home (anything else you can think of).
  
     `
 
-    }
+    },
 
+    "article13": {
+        date: '20 Jan, 2024',
+        link: '../articles/Eventof2023.html',
+        heading: 'Event of 2023',
+        category: 'Self Development',
+        img: '../img/Event of 2023.jpg',
+        content: ` What does it feel like to start something of your own? Mere thought of it gives you excitement, chills, you can feel that gush of blood run through your systems and once you actually start this journey you will experience extremes of both the emotions - high and dull, positive and negative.
+Before and after starting your business is totally different, at least it is for me
+
+ 
+    `
+
+    }
 
 
 
